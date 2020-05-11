@@ -2,10 +2,10 @@
 
 ## Performance activities:  
 
-1. Setting performance objectives and performance modeling
+1. Setting performance objectives and performance modeling (how well do we want the system to perform)
 2. Performance characterization of prototype software or hardware
-3. Performance analysis of development code, pre-integration
-4. Performing non-regression testing of software builds, pre- or post-release
+3. Performance analysis of development code, pre-integration 
+4. Performing non-regression testing of software builds, pre- or post-release (confirm that the software update doesn't cause a regression in performance)
 5. Benchmarking/Benchmarketing for software releases
 6. Proof-of-concept testing in the target environment
 7. Configuration optimization for production deployment
